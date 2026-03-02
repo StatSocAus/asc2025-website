@@ -8,3 +8,7 @@ domain <www.asc2025.net>.  The subscription for this will utimately lapse, so
 we made this copy for archival purposes.
 
 The script `download.sh` was used to create the copy.
+
+The pages were subsequently amended to include PDF copies of the program and
+abstracts, which was info that was previously hosted on the Oxford Abstracts
+platform (separate to the website).
